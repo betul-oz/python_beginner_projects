@@ -4,6 +4,7 @@ number2 = float(input("Enter the second number for the operation:"))
 
 operation = input("Enter the operation symbol for the operation:")
 
+
 if operation == "*":
     print(number1 * number2)
 
